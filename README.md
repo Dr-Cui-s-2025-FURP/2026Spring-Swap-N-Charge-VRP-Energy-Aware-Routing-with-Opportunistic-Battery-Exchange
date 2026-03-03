@@ -1,7 +1,5 @@
 # Swap-N-Charge VRP: Energy-Aware Routing with Opportunistic Battery Exchange
 
-> **FURP — FOSE Undergraduate Research Project**
-> School of Engineering | Undergraduate Research Programme
 
 ---
 
